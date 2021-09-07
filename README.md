@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sd185250
+- 👋 Hi, I’m Sriharsha @sd185250
 - 👀 I’m interested in learning technologies
 - 🌱 I’m currently learning Node Js
 - 💞️ I’m looking to collaborate on anything 
